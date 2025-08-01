@@ -32,12 +32,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Narayan03-t&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Narayan03-t&show_icons=true&theme=radical" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=Narayan03-t&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Narayan03-t&theme=radical" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narayan03-t&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narayan03-t&layout=compact&theme=radical" />
 </p>
+
 
 ---
 
