@@ -42,13 +42,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Narayan03-t&theme=monokai" />
-</p>
-
----
 
 ### 🔥 Contribution Graph
 
