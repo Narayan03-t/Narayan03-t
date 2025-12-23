@@ -1,26 +1,22 @@
-<h1 align="center">Hi 👋, I'm Tek Narayan Yadav</h1>
-<h3 align="center">💻 Aspiring Software Engineer | Full Stack Developer | B.Tech CSE @ LPU</h3>
+<h1 align="center">Hi 👋, I'm Tek Narayan</h1>
+<h3 align="center">🚀 Full Stack Developer | B.Tech CSE @ LPU</h3>
 
 <p align="center">
-  <i>
-    Third-year Computer Science student at Lovely Professional University,  
-    passionate about problem-solving, scalable systems, and building real-world applications.
-  </i>
+  <i>I’m a third-year B.Tech CSE student at Lovely Professional University, passionate about software development, web technologies, and problem-solving.</i>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 B.Tech CSE (3rd Year) at **Lovely Professional University**
-- 🌱 Currently strengthening **DSA (C++) & Full Stack Web Development**
-- ⚙️ Interested in **Backend Systems, Web Apps & Software Engineering**
-- 🤝 Open to **Open Source, Hackathons & Internships**
-- 📫 Email: **guddu20768@gmail.com**
-- 💼 LinkedIn: [Tek Narayan Yadav](https://www.linkedin.com/in/tek-narayan)
+### 👨‍💻 About Me
+- 🌱 Currently learning **DSA & Web Development**
+- 💻 Exploring full-stack projects using **MERN & C++**
+- 🤝 Open to collaborate on **Open Source & Hackathons**
+- 📫 Reach me at **guddu20768@gmail.com**
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/tek-narayan/)
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Languages and Tools
 
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -33,16 +29,7 @@
 
 ---
 
-## 🚀 Projects
-> *(Actively building – repositories will be added soon)*
-
-- 📌 **Student Management System** – Java / MySQL  
-- 📌 **Full Stack Web App** – React, Node.js, MongoDB  
-- 📌 **DSA Practice Repository** – C++ (Arrays, Strings, Linked List)
-
----
-
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Narayan03-t&show_icons=true&theme=radical" />
@@ -52,14 +39,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narayan03-t&layout=compact&theme=radical" />
 </p>
 
+
 ---
 
-## 🔥 Contribution Activity
+
+
+### 🔥 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Narayan03-t&theme=dracula" />
 </p>
-
----
-
-⭐ *Consistency > Perfection. Learning daily and building step by step.*
